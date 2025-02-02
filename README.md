@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hilink - Explore the World with Ease
 
-## Getting Started
+## 🌍 About Hilink
 
-First, run the development server:
+Hilink is a modern travel website designed to provide a visually stunning and user-friendly interface for travelers. Built using Tailwind CSS, Hilink offers a seamless UI experience for exploring destinations.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Features
+
+- **Beautiful UI Design** – Aesthetic and responsive layouts.
+- **Interactive Elements** – Engaging UI components built with Tailwind CSS.
+- **Dark & Light Modes** – Theme switcher for better accessibility.
+- **Fully Responsive** – Optimized for all screen sizes.
+- **Minimalistic & Fast** – Clean code and fast performance.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React.js, Tailwind CSS
+- **Styling:** Tailwind CSS utility-first framework
+
+## 📦 Installation & Setup
+
+To run the project locally, follow these steps:
+
+### 1️⃣ Clone the Repository
+
+```sh
+git clone https://github.com/your-username/hilink.git
+cd hilink
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2️⃣ Install Dependencies
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```sh
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 3️⃣ Run the Development Server
 
-## Learn More
+```sh
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+The website should now be available at `http://localhost:3000`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔥 Upcoming Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Animations & Transitions** – Smooth interactions using Tailwind CSS.
+- **More UI Components** – Expanding the design elements.
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We welcome contributions! Feel free to fork the repo and submit a pull request.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📜 License
+
+This project is licensed under the MIT License.
+
+## 📧 Contact
+
+For any inquiries or support, reach out to [your email or website].
+
+---
+
+Enjoy the UI experience! 🎨✨
