@@ -24,8 +24,8 @@ To run the project locally, follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/hilink.git
-cd hilink
+git clone https://github.com/Nainee99/travel-website.git
+cd travel-website
 ```
 
 ### 2️⃣ Install Dependencies
@@ -54,10 +54,6 @@ We welcome contributions! Feel free to fork the repo and submit a pull request.
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-## 📧 Contact
-
-For any inquiries or support, reach out to [your email or website].
 
 ---
 
